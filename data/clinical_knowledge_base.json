@@ -1,0 +1,194 @@
+[
+  {
+    "id": "kb_potassium_hyperkalemia",
+    "title": "Serum Potassium & Hyperkalemia Clinical Guide",
+    "category": "biomarker",
+    "source": "KDIGO & AHA Electrolyte Reference",
+    "keywords": ["potassium", "hyperkalemia", "hypokalemia", "k+", "electrolyte", "arrhythmia", "cardiac"],
+    "content": "Potassium is a vital electrolyte that regulates heart rhythm, nerve signaling, and muscle contraction. Normal adult serum potassium is typically 3.5 to 5.1 mmol/L. Levels above 5.5 mmol/L indicate moderate hyperkalemia, and values >= 6.0 mmol/L represent a critical finding that can affect cardiac electrical conduction and warrant prompt medical evaluation and an ECG. Common causes include impaired kidney excretion (reduced eGFR or CKD), potassium-sparing diuretics (such as spironolactone), ACE inhibitors or ARBs, tissue breakdown, metabolic acidosis, or specimen hemolysis (pseudohyperkalemia). Patients should discuss repeating the test promptly and reviewing all medications and high-potassium salt substitutes with their physician."
+  },
+  {
+    "id": "kb_hba1c_glucose_diabetes",
+    "title": "HbA1c & Fasting Blood Glucose Interpretation",
+    "category": "biomarker",
+    "source": "ADA Standards of Medical Care in Diabetes",
+    "keywords": ["hba1c", "a1c", "glucose", "fasting glucose", "blood sugar", "diabetes", "prediabetes", "glycemic"],
+    "content": "HbA1c (glycated hemoglobin) reflects average blood glucose control over the past 2 to 3 months. Standard adult ranges are below 5.7% (normal), 5.7% to 6.4% (prediabetes range), and 6.5% or higher (elevated range often evaluated for diabetes). Fasting plasma glucose is normally 70 to 99 mg/dL, with 100 to 125 mg/dL considered impaired fasting glucose and >= 126 mg/dL elevated. Sustained elevations above target (e.g., HbA1c > 7.0-8.0%) increase long-term strain on small blood vessels, kidneys (monitored via urine ACR and eGFR), eyes, and nerves. Physicians typically review meal composition, physical activity, medication adherence, and repeat testing every 3 to 6 months."
+  },
+  {
+    "id": "kb_lipid_panel_cardiovascular",
+    "title": "Lipid Profile: LDL, HDL, Total Cholesterol & Triglycerides",
+    "category": "biomarker",
+    "source": "AHA/ACC Blood Cholesterol Guideline",
+    "keywords": ["cholesterol", "ldl", "hdl", "triglycerides", "lipid", "dyslipidemia", "atherosclerosis", "heart"],
+    "content": "A standard lipid panel evaluates cardiovascular risk markers: Total Cholesterol (desirable < 200 mg/dL), LDL ('bad') cholesterol (optimal < 100 mg/dL; stricter targets < 70 mg/dL in diabetes or high cardiovascular risk), HDL ('good') cholesterol (protective when > 40 mg/dL in men and > 50 mg/dL in women), and Triglycerides (normal < 150 mg/dL). Elevated LDL contributes to arterial plaque buildup over time, while elevated triglycerides often correlate with insulin resistance, refined carbohydrate intake, alcohol, or fatty liver. Management generally combines heart-healthy dietary changes (soluble fiber, unsaturated fats, reduced saturated fat), aerobic exercise, and physician-guided lipid-lowering therapy such as statins when indicated."
+  },
+  {
+    "id": "kb_renal_egfr_creatinine_uacr",
+    "title": "Kidney Function Panel: Creatinine, eGFR, BUN & Urine ACR",
+    "category": "biomarker",
+    "source": "KDIGO Chronic Kidney Disease Guidelines",
+    "keywords": ["creatinine", "egfr", "gfr", "kidney", "renal", "ckd", "bun", "urea", "uacr", "microalbuminuria", "albumin"],
+    "content": "Kidney filtration is assessed using serum creatinine (typically 0.7 to 1.3 mg/dL in men, 0.6 to 1.1 mg/dL in women) and estimated Glomerular Filtration Rate (eGFR, normal >= 60-90 mL/min/1.73m²). An eGFR below 60 sustained over 3 months suggests reduced kidney function; an eGFR below 30 (Stage 4) or below 15-20 requires close nephrology evaluation and careful medication dose review. Urine Albumin-to-Creatinine Ratio (uACR, normal < 30 mg/g) detects early kidney stress (microalbuminuria when 30-300 mg/g), particularly in diabetes or hypertension. Reduced kidney function alters clearance of drugs like metformin, NSAIDs, and potassium-raising agents."
+  },
+  {
+    "id": "kb_liver_panel_alt_ast_ggt",
+    "title": "Liver Function Tests (ALT, AST, GGT, ALP & Bilirubin)",
+    "category": "biomarker",
+    "source": "AASLD Liver Chemistry Evaluation Reference",
+    "keywords": ["alt", "sgpt", "ast", "sgot", "ggt", "alkaline phosphatase", "alp", "bilirubin", "liver", "fatty liver", "masld", "nafld"],
+    "content": "ALT (SGPT) and AST (SGOT) are enzymes released when liver cells experience irritation or inflammation. Mild-to-moderate elevations (1.5 to 4 times upper limit of normal), especially alongside elevated GGT, high triglycerides, or elevated HbA1c, are commonly evaluated for metabolic dysfunction-associated steatotic liver disease (fatty liver), alcohol effects, or medication-related enzyme elevation. Alkaline phosphatase (ALP) and bilirubin elevations often guide clinicians to evaluate bile duct drainage or gallbladder health. Physicians typically correlate liver enzymes with abdominal ultrasound, medication history, and metabolic health."
+  },
+  {
+    "id": "kb_thyroid_tsh_t4_antitpo",
+    "title": "Thyroid Panel: TSH, Free T4 & Anti-TPO Antibodies",
+    "category": "biomarker",
+    "source": "ATA Thyroid Function Reference",
+    "keywords": ["tsh", "thyroid", "free t4", "ft4", "t3", "anti-tpo", "tpo", "hashimoto", "hypothyroidism", "hyperthyroidism"],
+    "content": "Thyroid-Stimulating Hormone (TSH, typical adult range 0.4 to 4.0 mIU/L) regulates thyroid hormone output. An elevated TSH with low or borderline-low Free T4 indicates an underactive thyroid pattern (hypothyroidism), which can cause fatigue, weight gain, cold intolerance, dry skin, or elevated cholesterol. Markedly elevated Anti-TPO (thyroid peroxidase) antibodies suggest autoimmune thyroiditis (commonly associated with Hashimoto's thyroiditis). Conversely, suppressed TSH with high Free T4 indicates overactive thyroid activity. Clinicians typically recheck TSH 6 to 8 weeks after any thyroid hormone adjustment."
+  },
+  {
+    "id": "kb_cbc_hemoglobin_anemia_mcv",
+    "title": "Complete Blood Count (CBC), Hemoglobin, MCV & Anemia Patterns",
+    "category": "biomarker",
+    "source": "ASH Hematology Clinical Reference",
+    "keywords": ["hemoglobin", "haemoglobin", "hb", "cbc", "mcv", "rbc", "anemia", "microcytic", "macrocytic", "hematocrit"],
+    "content": "Hemoglobin carries oxygen from the lungs to tissues (typical ranges: 13.0 to 17.0 g/dL in men, 12.0 to 15.5 g/dL in women). Mean Corpuscular Volume (MCV, normal 80 to 100 fL) measures average red blood cell size and helps classify low hemoglobin patterns: low MCV (< 80 fL) with low ferritin is commonly associated with iron deficiency; high MCV (> 100 fL, macrocytosis) is commonly evaluated for Vitamin B12 or folate deficiency, thyroid dysfunction, or bone marrow causes. Doctors correlate CBC indices with ferritin, B12, reticulocyte count, and peripheral blood smear."
+  },
+  {
+    "id": "kb_ferritin_iron_b12_vitd",
+    "title": "Micronutrients: Ferritin, Vitamin B12 & Vitamin D",
+    "category": "biomarker",
+    "source": "Endocrine & Nutritional Medicine Reference",
+    "keywords": ["ferritin", "iron", "vitamin b12", "b12", "vitamin d", "25-oh vitamin d", "deficiency", "fatigue"],
+    "content": "Ferritin reflects stored iron reserves; low ferritin (< 30 ng/mL) indicates depleted iron stores even before hemoglobin drops, causing fatigue or reduced stamina. Note that very high ferritin (> 500 to > 1000 ng/mL) is an acute-phase reactant and can rise sharply during severe systemic inflammation, liver injury, or hyperinflammatory syndromes (such as HLH). Vitamin B12 (< 200 pg/mL deficient, 200-300 borderline) is essential for nerve sheath integrity and red blood cell maturation; long-term metformin or PPI use can lower B12 absorption. Vitamin D (25-OH, optimal 30 to 100 ng/mL) supports calcium absorption, bone density, and immune regulation."
+  },
+  {
+    "id": "kb_pancytopenia_wbc_platelets_dic_hlh",
+    "title": "Critical Hematology: Pancytopenia, Thrombocytopenia, DIC & Hyperferritinemia",
+    "category": "guideline",
+    "source": "Critical Hematology & Sepsis Clinical Compendium",
+    "keywords": ["pancytopenia", "wbc", "leukopenia", "platelets", "thrombocytopenia", "dic", "d-dimer", "fibrinogen", "hlh", "sepsis", "ana", "ferritin"],
+    "content": "Simultaneous drops in white blood cells (WBC < 4.0 x10^9/L), hemoglobin, and platelets (< 150 x10^9/L; critical risk of bleeding below 50 x10^9/L) is termed pancytopenia and requires prompt hematology or urgent hospital evaluation. When paired with markedly elevated D-dimer, prolonged PT/INR or aPTT, and falling fibrinogen, clinicians urgently evaluate for consumptive coagulopathy (such as DIC) or systemic infection/sepsis. Extremely elevated ferritin (thousands of ng/mL) alongside cytopenias and high inflammatory markers (CRP, high-titer ANA) warrants urgent specialist workup for severe hyperinflammatory or autoimmune conditions."
+  },
+  {
+    "id": "kb_cardiac_bnp_acidosis_cardiorenal",
+    "title": "Cardiorenal Markers: NT-proBNP, Blood Gas pH & Metabolic Acidosis",
+    "category": "guideline",
+    "source": "ESC Heart Failure & Critical Care Reference",
+    "keywords": ["nt-probnp", "bnp", "heart failure", "cardiorenal", "ph", "bicarbonate", "hco3", "acidosis", "metabolic acidosis", "troponin"],
+    "content": "NT-proBNP is a hormone released when heart chambers experience increased wall stretch or fluid overload. Markedly elevated levels (e.g., > 900 to > 1800 pg/mL depending on age, and especially > 4000 pg/mL) warrant prompt medical evaluation for fluid status and cardiac strain, particularly when kidney filtration (eGFR) is simultaneously reduced (cardiorenal syndrome). Arterial or venous blood pH below 7.35 (especially < 7.30) with low bicarbonate indicates metabolic acidosis, which can accompany advanced kidney dysfunction and worsen serum potassium elevation by shifting potassium out of cells."
+  },
+  {
+    "id": "kb_ct_abdomen_appendicitis_renal_stone",
+    "title": "Contrast CT Abdomen & Pelvic Imaging Findings (Appendicitis & Renal Calculi)",
+    "category": "imaging",
+    "source": "ACR Radiology Patient Education Guide",
+    "keywords": ["ct scan", "ct abdomen", "appendix", "appendicitis", "appendicolith", "fat stranding", "renal stone", "calculus", "kidney stone", "radiology"],
+    "content": "A contrast-enhanced CT scan of the abdomen provides detailed cross-sectional views of abdominal organs. Key findings clinicians look for in right lower quadrant pain include an enlarged appendix (outer diameter > 6 mm, particularly > 10 mm), wall thickening, surrounding periappendiceal fat stranding, or a calcified stone inside the appendix (appendicolith) — features classically associated with acute appendicitis requiring prompt surgical evaluation. Non-obstructing renal calculi (small kidney stones, e.g. 2-4 mm without hydronephrosis) are often incidental findings that a doctor may monitor with hydration advice and follow-up."
+  },
+  {
+    "id": "kb_chest_xray_interpretation",
+    "title": "Chest X-Ray (PA/Lateral) Radiology Interpretation Guide",
+    "category": "imaging",
+    "source": "Radiological Society Patient Reference",
+    "keywords": ["x-ray", "xray", "chest x-ray", "cxr", "lungs", "cardiomegaly", "effusion", "pneumothorax", "infiltrate", "costophrenic"],
+    "content": "A standard Chest X-Ray evaluates lung fields, heart silhouette size (cardiothoracic ratio normally < 0.5), bony rib cage, diaphragm, and costophrenic angles. Reassuring normal descriptors include 'clear lung fields bilaterally', 'no focal consolidation or infiltrate', 'no pleural effusion or pneumothorax', and 'normal cardiomediastinal silhouette'. Abnormal findings such as consolidation, pleural effusion, or enlarged cardiac silhouette are correlated by a clinician with symptoms, oxygen saturation, and blood tests."
+  },
+  {
+    "id": "kb_surgery_lap_cholecystectomy_discharge",
+    "title": "Laparoscopic Cholecystectomy Operative & Post-Operative Discharge Guide",
+    "category": "imaging",
+    "source": "SAGES Surgical Patient Recovery Guidelines",
+    "keywords": ["surgery", "operative", "cholecystectomy", "gallbladder", "gallstone", "cbd", "laparoscopic", "discharge", "post-op", "pathology"],
+    "content": "Laparoscopic cholecystectomy is minimally invasive keyhole removal of the gallbladder, commonly performed for symptomatic gallstones (cholelithiasis). Operative reports note gallbladder stone size, common bile duct (CBD) diameter (normally <= 6 mm in adults), critical view of safety, and benign pathology confirming absence of malignancy. Typical recovery includes gradual return to a low-fat balanced diet, walking to prevent blood clots, keeping trocar incisions clean and dry, and monitoring for post-op red flags: persistent fever > 38°C (100.4°F), worsening abdominal pain, yellowing of eyes/skin (jaundice), or spreading wound redness/drainage."
+  },
+  {
+    "id": "kb_drug_metformin_pharmacology",
+    "title": "Metformin Pharmacology, Timing & Renal/B12 Monitoring",
+    "category": "pharmacology",
+    "source": "Clinical Pharmacology & ADA Medication Reference",
+    "keywords": ["metformin", "glucophage", "biguanide", "blood sugar", "lactic acidosis", "b12", "egfr"],
+    "content": "Metformin is a first-line oral medication for type 2 diabetes that lowers glucose production in the liver and improves insulin sensitivity. Common early side effects include mild nausea, bloating, or loose stools, which are minimized by taking it with or immediately after meals (or using extended-release formulations as prescribed). Important clinical monitoring points to discuss with a doctor: periodic Vitamin B12 checks during long-term use, and kidney function (eGFR) monitoring — metformin is generally avoided or paused if eGFR falls below 30 mL/min/1.73m² due to rare lactic acidosis risk. Never stop or change doses without physician direction."
+  },
+  {
+    "id": "kb_drug_statins_atorvastatin_rosuvastatin",
+    "title": "Statin Therapy (Atorvastatin & Rosuvastatin) Patient Guide",
+    "category": "pharmacology",
+    "source": "AHA/ACC Lipid Pharmacology Reference",
+    "keywords": ["atorvastatin", "rosuvastatin", "statin", "cholesterol", "myalgia", "muscle ache", "liver enzymes"],
+    "content": "Statins such as Atorvastatin and Rosuvastatin inhibit HMG-CoA reductase in the liver to substantially lower LDL cholesterol and reduce long-term heart attack and stroke risk. They are usually taken once daily (often in the evening for atorvastatin, or any consistent time for rosuvastatin). Most patients tolerate statins well; mild muscle aches (myalgia) or minor liver enzyme shifts can occasionally occur. Patients should inform their physician if they develop unusual, persistent, or symmetric muscle pain, weakness, or dark urine, and should never discontinue a prescribed statin independently."
+  },
+  {
+    "id": "kb_interaction_hyperkalemia_raas_spironolactone",
+    "title": "Drug-Drug Interaction: ACE Inhibitors / ARBs + Spironolactone & Hyperkalemia",
+    "category": "interaction",
+    "source": "FDA & KDIGO Drug Interaction Safety Bulletin",
+    "keywords": ["spironolactone", "telmisartan", "losartan", "lisinopril", "ramipril", "enalapril", "arb", "ace inhibitor", "potassium", "interaction", "hyperkalemia"],
+    "content": "Combining potassium-sparing diuretics (such as Spironolactone or Eplerenone) with ACE inhibitors (e.g., Lisinopril, Ramipril) or ARBs (e.g., Telmisartan, Losartan) — especially in patients with reduced kidney function (low eGFR) or diabetes — carries a well-documented additive risk of elevated blood potassium (hyperkalemia). Concurrent NSAIDs (like ibuprofen or diclofenac) or potassium salt substitutes further amplify this risk. When serum potassium rises above 5.5 mmol/L, physicians urgently review this combination, monitor kidney function, and decide safely whether adjustments are needed."
+  },
+  {
+    "id": "kb_interaction_nsaids_ckd_cardiorenal",
+    "title": "Drug Safety Advisory: NSAIDs in Kidney Disease, Heart Failure & Hypertension",
+    "category": "interaction",
+    "source": "KDIGO & FDA Renal Drug Safety Guide",
+    "keywords": ["nsaid", "ibuprofen", "diclofenac", "naproxen", "ketorolac", "painkiller", "kidney", "egfr", "creatinine", "heart failure"],
+    "content": "Non-steroidal anti-inflammatory drugs (NSAIDs such as ibuprofen, naproxen, diclofenac, or aceclofenac) reduce prostaglandin-mediated blood flow to the kidneys. In individuals with reduced eGFR, elevated creatinine, heart failure (elevated NT-proBNP), or concurrent blood pressure medications (diuretics + ACEi/ARBs, known as the 'triple whammy'), NSAIDs can precipitate acute kidney injury, fluid retention, or hyperkalemia. Patients with kidney or cardiac abnormalities should always ask their doctor before using over-the-counter pain relievers."
+  },
+  {
+    "id": "kb_drug_levothyroxine_timing_interactions",
+    "title": "Levothyroxine Administration Timing & Absorption Interactions",
+    "category": "pharmacology",
+    "source": "ATA Thyroid Hormone Replacement Guidelines",
+    "keywords": ["levothyroxine", "thyronorm", "eltroxin", "synthroid", "thyroid", "iron", "calcium", "ppi", "pantoprazole", "empty stomach"],
+    "content": "Levothyroxine replaces thyroid hormone (T4) in hypothyroidism. For consistent absorption, it is typically taken on an empty stomach with plain water 30 to 60 minutes before breakfast (or at bedtime at least 3-4 hours after the last meal). Several common supplements and medications — including iron tablets, calcium supplements, antacids, and proton pump inhibitors (like Pantoprazole) — can bind levothyroxine and reduce its absorption, so clinicians usually recommend spacing iron or calcium at least 4 hours apart from levothyroxine."
+  },
+  {
+    "id": "kb_drug_ppi_pantoprazole_omeprazole",
+    "title": "Proton Pump Inhibitors (Pantoprazole, Omeprazole) Patient Guide",
+    "category": "pharmacology",
+    "source": "AGA Gastroenterology Medication Reference",
+    "keywords": ["pantoprazole", "omeprazole", "rabeprazole", "esomeprazole", "ppi", "acidity", "gerd", "reflux", "stomach"],
+    "content": "Proton pump inhibitors (PPIs) such as Pantoprazole and Omeprazole suppress stomach acid secretion to relieve acid reflux, gastritis, or protect the stomach lining during post-operative recovery or aspirin therapy. They work best when taken 30 to 45 minutes before the first meal of the day. Short-term use is well tolerated; with prolonged multi-year use, clinicians periodically review the ongoing indication and monitor Vitamin B12, magnesium, and bone health."
+  },
+  {
+    "id": "kb_drug_vitamin_d_b12_iron_supplements",
+    "title": "Vitamin D3, Methylcobalamin (B12) & Oral Iron Supplementation Guide",
+    "category": "pharmacology",
+    "source": "Clinical Nutrition & Pharmacology Reference",
+    "keywords": ["vitamin d3", "cholecalciferol", "methylcobalamin", "vitamin b12", "iron", "ferrous", "supplement", "ferritin"],
+    "content": "Fat-soluble Vitamin D3 (cholecalciferol, often prescribed as weekly 60,000 IU or daily 1,000-2,000 IU) absorbs best when taken with a meal containing healthy dietary fat. Oral iron supplements (such as ferrous ascorbate or ferrous sulfate) replenish depleted ferritin and hemoglobin; Vitamin C aids iron absorption while tea, coffee, dairy, and calcium can block it, and dark stools or mild constipation are common harmless side effects. Vitamin B12 (methylcobalamin/cyanocobalamin) replenishes B12 stores for nerve and blood cell health."
+  },
+  {
+    "id": "kb_drug_amlodipine_telmisartan_bp",
+    "title": "Blood Pressure Medications: Amlodipine & Telmisartan",
+    "category": "pharmacology",
+    "source": "AHA Hypertension Management Reference",
+    "keywords": ["amlodipine", "telmisartan", "blood pressure", "hypertension", "edema", "ankle swelling", "dizziness"],
+    "content": "Amlodipine (a calcium channel blocker) and Telmisartan (an angiotensin receptor blocker / ARB) relax blood vessels to lower blood pressure and protect the heart and kidneys. Amlodipine may occasionally cause mild ankle swelling (peripheral edema) or flushing. Telmisartan offers kidney-protective effects in diabetes (helping reduce urine albumin) while requiring periodic checks of creatinine and serum potassium. Both are generally taken once daily at a consistent time; patients should never abruptly stop blood pressure medication without physician guidance."
+  },
+  {
+    "id": "kb_drug_postop_analgesics_antibiotics",
+    "title": "Post-Operative Medications: Paracetamol, Antibiotics & Recovery Safety",
+    "category": "pharmacology",
+    "source": "Surgical Discharge Pharmacology Reference",
+    "keywords": ["paracetamol", "acetaminophen", "amoxicillin", "cefuroxime", "ciprofloxacin", "antibiotic", "pain", "post-op", "fever"],
+    "content": "Paracetamol (acetaminophen) relieves mild-to-moderate post-operative pain and fever and is gentle on the stomach and kidneys, provided the total daily limit (typically not exceeding 3,000-4,000 mg/day, or lower in liver disease) is strictly respected. Prescribed surgical antibiotics should be completed for the exact duration written on the discharge summary unless a physician advises otherwise due to allergic reactions (rash, swelling, breathing difficulty) or severe diarrhea."
+  },
+  {
+    "id": "kb_inflammatory_crp_esr_ana",
+    "title": "Inflammatory & Autoimmune Markers: CRP, ESR & ANA Titer",
+    "category": "biomarker",
+    "source": "ACR Rheumatology Diagnostic Reference",
+    "keywords": ["crp", "c-reactive protein", "esr", "ana", "antinuclear", "autoimmune", "inflammation", "lupus", "rheumatology"],
+    "content": "C-Reactive Protein (CRP, usually < 5 mg/L) and Erythrocyte Sedimentation Rate (ESR) are non-specific markers that rise during acute infection, tissue injury, post-surgical healing, or chronic autoimmune inflammation. Antinuclear Antibody (ANA) testing screens for autoimmune activity; low titers can occasionally appear in healthy individuals, whereas high titers (such as 1:320 or 1:640) combined with symptoms or abnormal blood counts prompt further specific autoantibody testing by a rheumatologist."
+  },
+  {
+    "id": "kb_safety_emergency_red_flags",
+    "title": "Clinical Safety & When to Seek Immediate Emergency Care",
+    "category": "guideline",
+    "source": "WHO & Emergency Medicine Triage Protocol",
+    "keywords": ["emergency", "chest pain", "shortness of breath", "stroke", "fainting", "bleeding", "112", "911", "critical", "urgent"],
+    "content": "Lab reports and digital health assistants cannot replace emergency clinical evaluation. Immediate emergency medical attention (call 112/911 or visit the nearest emergency department) is essential for acute chest pain or pressure, sudden severe shortness of breath, face drooping or arm weakness or slurred speech, fainting or severe confusion, uncontrolled bleeding, very high fever with chills after surgery, or critically abnormal lab values such as severe hyperkalemia (Potassium >= 6.0 mmol/L) accompanied by palpitations or weakness."
+  }
+]

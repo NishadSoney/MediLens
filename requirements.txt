@@ -1,0 +1,17 @@
+# Core Web API & Schema Validation
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0.0
+python-multipart>=0.0.9
+python-dotenv>=1.0.0
+
+# HTTP Client & Hybrid Vector RAG Engine
+requests>=2.31.0
+numpy>=1.26.0
+
+# Document Extraction
+pymupdf>=1.24.0
+
+# Voice Services (Multilingual STT & TTS Fallbacks)
+SpeechRecognition>=3.10.0
+gTTS>=2.5.0

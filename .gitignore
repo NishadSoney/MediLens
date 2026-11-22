@@ -1,0 +1,37 @@
+# Environment variables and secrets (NEVER commit real API keys)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+venv/
+env/
+ENV/
+
+# Build artifacts
+dist/
+frontend/dist/
+build/
+
+# Python cache & temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Temp & scratch test scripts
+test_*.py
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

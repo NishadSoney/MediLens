@@ -1,0 +1,6 @@
+{
+  "kb_hash": "269f099ce5a9076b",
+  "doc_count": 24,
+  "vector_dim": 768,
+  "provider": "ollama:nomic-embed-text"
+}
